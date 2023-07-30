@@ -1,4 +1,7 @@
 def up(text: str):
+    '''
+    Big letters in word
+    '''
     return text.upper()
 
 
