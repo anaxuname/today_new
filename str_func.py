@@ -1,6 +1,6 @@
 def up(text: str):
     '''
-    Big letters in word
+    Function to convert all letters to uppercase
     '''
     return text.upper()
 
